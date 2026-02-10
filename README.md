@@ -1,7 +1,7 @@
 # Hi, I'm Takamichi 👋
 
-Full-Stack Software Engineer based in Germany
-<br>I build scheduling & productivity apps with React, Node.js, and calendar/AI APIs.
+Full-Stack Software Engineer based in Germany.
+<br>Building scheduling & productivity apps with React and Node.js; previously worked on fintech, manufacturing, and IoT products.
 
 ## At a glance
 
