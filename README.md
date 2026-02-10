@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Takamichi 👋
 
-<!--
-**Michi0808/Michi0808** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-Stack Software Engineer based in Germany
+<br>I build scheduling & productivity apps with React, Node.js, and calendar/AI APIs.
 
-Here are some ideas to get you started:
+## At a glance
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📍 Based in Hamburg, Germany (open to relocation)
+- 🎯 Open to: Full-stack / Frontend / Backend roles
+- 🧰 Core: React, TypeScript, Node.js, Java, C#, PostgreSQL, MongoDB
+- 🔌 Strong in: REST APIs & integrations (e.g., Google Calendar API, Gemini API)
+- 🤝 Open to: Remote / Hybrid
+
+## Contact
+
+- 💼 LinkedIn: https://www.linkedin.com/in/takamichi-oki/
+- ✉️ Email: jagar008@gmail.com
