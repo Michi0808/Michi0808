@@ -5,7 +5,7 @@ Full-Stack Software Engineer based in Germany.
 
 ## At a glance
 
-- 📍 Based in Hamburg, Germany (open to relocation)
+- 📍 Based in Hamburg, Germany
 - 🎯 Open to: Full-stack / Frontend / Backend roles
 - 🧰 Core: React, TypeScript, Node.js, Java, C#, PostgreSQL, MongoDB
 - 🔌 Strong in: REST APIs & integrations (e.g., Google Calendar API, Gemini API)
